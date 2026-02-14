@@ -1,0 +1,5 @@
+{
+  "name": "Sudobix",
+  "description": "A fully interactive 9x9x9 Rubik's Cube where each face forms a valid Sudoku puzzle. Solve the Sudoku on every side!",
+  "requestFramePermissions": []
+}
